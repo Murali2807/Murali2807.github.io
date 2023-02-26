@@ -1,0 +1,18 @@
+body{
+    background-image:url('../images/2.jpg');
+    margin: 10mm;
+}
+
+table, th, td {
+    border: 2px solid black;
+    margin: 10mm;
+    
+  }
+  
+  table {
+    
+    width: 60%;
+    height: 60%;
+    font-size: larger;
+  }
+  
